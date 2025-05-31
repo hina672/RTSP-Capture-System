@@ -1,6 +1,13 @@
 # RTSP Camera Stream & Snapshot Web App
 
-This project is a Flask-based web application that streams live video from an RTSP IP camera, allows snapshot capturing, and logs image details in an Excel file. The web interface displays live feeds and snapshot previews, with support for multiple cameras.
+This project is a Flask web application that streams live video from an RTSP IP camera, enables snapshot capturing, and logs captured image details into an Excel file. The web interface provides:
+Live video feed previews
+Snapshot functionality
+Support for multiple IP cameras
+
+In this setup:
+The first two frames are configured to capture and display human activity.
+The next two frames are designated for vehicle monitoring.
 
 ## 🚀 Features
 
