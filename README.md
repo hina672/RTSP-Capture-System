@@ -9,6 +9,11 @@ In this setup:
 The first two frames are configured to capture and display human activity.
 The next two frames are designated for vehicle monitoring.
 
+## 🖼 Interface Preview
+
+![Interface Preview](screenshots/interface_preview.png)
+
+
 ## 🚀 Features
 
 - Live RTSP video stream using OpenCV and Flask.
