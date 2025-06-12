@@ -11,7 +11,7 @@ The next two frames are designated for vehicle monitoring.
 
 ## 🖼 Interface Preview
 
-![Interface Preview](screenshots/interface_preview)
+![Interface Preview](screenshots/interface_preview.PNG)
 
 
 ## 🚀 Features
