@@ -73,8 +73,4 @@ Click **"Capture Both Snapshots"** to take pictures from both cameras. Snapshots
 * Add download or email options for snapshots.
 * Add authentication for security.
 
-🔐 Note:
-This is a public demo overview. The full source code is available upon request. Please contact me via LinkedIn https://www.linkedin.com/in/hinaasad-/ or email at hinaasad672@gmail.com.
-
-
-
+🔐 Note: This is a public demo overview. Preview images are intentionally excluded from this public demo to respect privacy and data sensitivity. The full source code is available upon request. Contact me via LinkedIn https://www.linkedin.com/in/hinaasad-/ or email at hinaasad672@gmail.com.
